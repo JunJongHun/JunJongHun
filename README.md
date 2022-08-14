@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PgmJun's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=COMEON!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JongHun's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <br>
 
@@ -39,11 +39,11 @@
   <img alt="StyledComponents" src ="https://img.shields.io/badge/StyledComponents-DB7093.svg?&style=for-the-badge&logo=StyledComponents&logoColor=white"/>
 </p><br>
 
-<---
+<!--
 <p align="center">
     💡used at least once
 </p>
---->
+
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -52,9 +52,10 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">  
 </p>
-
+-->
 <br>
 
 <div align=center>
 
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=PgmJun&show_icons=true)
+![JongHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunJongHun&show_icons=true&theme=tokyonight)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minn4072)](https://solved.ac/minn4072/)
