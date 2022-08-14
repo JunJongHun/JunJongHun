@@ -58,4 +58,4 @@
 <div align=center>
 
 ![JongHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunJongHun&show_icons=true&theme=tokyonight)
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minn4072)](https://solved.ac/minn4072/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minn4072)](https://solved.ac/minn4072/)
